@@ -1,251 +1,251 @@
-CustomerID,Gender,Location,Transaction_ID,Product_Description,Product_Category,Quantity,Avg_Price,Delivery_Charges,Coupon_Status,Date,Weather Conditions
-14307.0,F,California,38830.0,Google Stylus Pen w/ LED Light,Office,75.0,4.4,82.48,Clicked,2019-09-23,
-14911.0,F,California,45554.0,Google Youth Baseball Raglan Heather/Black,Apparel,1.0,10.18,6.5,Clicked,2019-12-04,
-17085.0,F,California,31959.0,Leatherette Journal,Office,30.0,8.79,36.06,Clicked,2019-07-06,
-17787.0,M,California,39212.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,Not Used,2019-09-27,
-14527.0,M,California,38656.0,Google Tote Bag,Bags,1.0,9.99,6.0,Clicked,2019-09-21,
-15889.0,F,California,21567.0,Ballpoint LED Light Pen,Office,30.0,2.5,6.5,Used,2019-02-28,
-17841.0,M,California,36378.0,Android Onesie Gold,Apparel,1.0,19.19,6.0,Clicked,2019-08-23,
-16814.0,M,California,38257.0,Google Women's Long Sleeve Tee Lavender,Apparel,1.0,9.6,6.0,Used,2019-09-15,
-13819.0,F,California,40567.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,199.0,6.0,Clicked,2019-10-12,
-16727.0,F,California,26830.0,Google Women's Long Sleeve Tee Lavender,Apparel,1.0,23.99,12.99,Clicked,2019-04-30,
-15384.0,M,California,29679.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,Used,2019-06-05,
-17337.0,F,California,47054.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,Clicked,2019-12-15,
-12668.0,F,California,45209.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,Clicked,2019-11-30,
-13649.0,F,California,24983.0,Google Twill Cap,Apparel,1.0,10.99,6.5,Clicked,2019-04-06,
-13488.0,F,California,36340.0,Women's Performance Full Zip Jacket Black,Apparel,1.0,67.19,6.0,Not Used,2019-08-22,
-15032.0,F,California,24750.0,Google Metallic Notebook Set,Office,60.0,4.79,45.5,Used,2019-04-04,
-17596.0,F,California,22399.0,Google Canvas Tote Natural/Navy,Bags,1.0,12.79,24.47,Used,2019-03-08,
-13097.0,M,California,29385.0,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,149.0,6.0,Clicked,2019-06-01,
-12672.0,F,California,36994.0,YouTube Men's Short Sleeve Hero Tee Charcoal,Apparel,1.0,18.99,6.0,Used,2019-08-30,
-14497.0,M,California,47577.0,Nest Cam IQ - USA,Nest,1.0,202.84,6.5,Used,2019-12-19,
-14541.0,F,California,40839.0,Nest Cam IQ - USA,Nest,1.0,199.0,6.0,Used,2019-10-16,
-14911.0,F,California,42756.0,25L Classic Rucksack,Backpacks,1.0,79.99,6.0,Not Used,2019-11-07,
-12510.0,F,California,38370.0,YouTube Men's Long & Lean Tee Charcoal,Apparel,1.0,8.0,6.0,Used,2019-09-18,
-16274.0,F,California,17815.0,Google Men's Long Sleeve Raglan Ocean Blue,Apparel,1.0,25.78,6.5,Clicked,2019-01-13,
-17739.0,F,California,29311.0,Google Sunglasses,Lifestyle,20.0,2.8,16.86,Used,2019-05-31,
-17337.0,F,California,46950.0,Google Tee Green,Apparel,2.0,17.93,12.99,Clicked,2019-12-15,
-17075.0,F,California,42220.0,Sport Bag,Bags,1.0,3.99,6.0,Not Used,2019-10-31,
-13715.0,M,California,33376.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Used,2019-07-21,
-15353.0,F,California,23699.0,Google Canvas Tote Natural/Navy,Bags,2.0,15.99,6.5,Clicked,2019-03-20,
-17961.0,F,California,32526.0,Google Infant Zip Hood Pink,Apparel,13.0,26.59,6.0,Not Used,2019-07-13,
-13564.0,M,California,23328.0,Google Men's 100% Cotton Short Sleeve Hero Tee Red,Apparel,1.0,13.59,6.5,Clicked,2019-03-19,
-17787.0,M,California,39202.0,Google Men's Vintage Badge Tee Sage,Apparel,1.0,5.7,6.0,Not Used,2019-09-27,
-17841.0,M,California,26100.0,Google Men's Vintage Badge Tee White,Apparel,1.0,10.63,6.0,Used,2019-04-21,
-15044.0,F,California,27722.0,Galaxy Screen Cleaning Cloth,Office,20.0,1.99,6.0,Clicked,2019-05-10,
-17811.0,M,California,35553.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,119.0,6.0,Used,2019-08-14,
-14667.0,F,California,26478.0,Google Trucker Hat,Headgear,1.0,21.99,12.99,Clicked,2019-04-26,
-16684.0,M,California,47260.0,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,80.52,12.99,Used,2019-12-17,
-18212.0,F,California,38159.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,19.99,Used,2019-09-14,
-12731.0,F,California,26351.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,3.0,149.0,6.0,Not Used,2019-04-24,
-16873.0,M,California,27009.0,BLM Sweatshirt,Apparel,1.0,33.59,6.0,Clicked,2019-05-02,
-12826.0,M,California,42916.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Used,2019-11-08,
-13280.0,F,California,34302.0,Red Shine 15 oz Mug,Drinkware,1.0,10.39,6.0,Not Used,2019-08-01,
-17841.0,M,California,26099.0,Google Sunglasses,Lifestyle,20.0,2.8,52.17,Clicked,2019-04-21,
-15581.0,F,California,31753.0,Google Men's Long Sleeve Raglan Ocean Blue,Apparel,1.0,17.49,12.99,Used,2019-07-03,
-17621.0,M,California,45139.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,Clicked,2019-11-29,
-16122.0,M,California,35914.0,YouTube Men's Short Sleeve Hero Tee Charcoal,Apparel,2.0,15.19,49.73,Clicked,2019-08-17,
-12947.0,M,California,34388.0,Keyboard DOT Sticker,Office,1.0,1.2,6.0,Used,2019-08-01,
-17581.0,M,California,37093.0,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,13.59,6.0,Clicked,2019-08-31,
-17880.0,M,California,26317.0,Google 3/4 Sleeve Raglan Badge Henley Black,Apparel,1.0,16.23,6.0,Not Used,2019-04-24,
-17880.0,M,California,26314.0,22 oz Android Bottle,Bottles,1.0,2.99,6.0,Used,2019-04-24,
-12539.0,M,Chicago,35456.0,Collapsible Shopping Bag,Bags,1.0,3.99,12.99,Clicked,2019-08-12,
-16891.0,M,Chicago,19496.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,Clicked,2019-02-02,
-17857.0,M,Chicago,25428.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Not Used,2019-04-12,
-17218.0,F,Chicago,23119.0,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,2.0,16.99,6.5,Not Used,2019-03-17,
-12748.0,F,Chicago,25248.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.5,Clicked,2019-04-10,
-17890.0,F,Chicago,28366.0,Android 25 oz Green Apple Stainless Steel Bottle,Drinkware,1.0,9.79,6.0,Clicked,2019-05-19,
-14049.0,M,Chicago,42000.0,Four Color Retractable Pen,Office,1.0,2.99,6.0,Clicked,2019-10-28,
-15194.0,M,Chicago,30613.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,Clicked,2019-06-17,
-18145.0,F,Chicago,45030.0,YouTube Custom Decals,Office,1.0,0.4,6.5,Not Used,2019-11-28,
-13982.0,F,Chicago,25766.0,Android Wool Heather Cap Heather/Black,Headgear,1.0,13.99,6.0,Used,2019-04-17,
-13174.0,M,Chicago,21867.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,119.0,6.5,Used,2019-03-03,
-14701.0,M,Chicago,43017.0,Four Color Retractable Pen,Office,2.0,2.39,6.0,Clicked,2019-11-09,
-15311.0,F,Chicago,37242.0,Google Women's Performance Hero Tee Gunmetal,Apparel,1.0,11.0,6.0,Used,2019-09-02,
-15052.0,F,Chicago,40929.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,Clicked,2019-10-17,
-13174.0,M,Chicago,21814.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,Clicked,2019-03-03,
-16889.0,F,Chicago,34448.0,Google Toddler Short Sleeve Tee White,Apparel,1.0,13.59,6.0,Not Used,2019-08-02,
-17211.0,F,Chicago,27356.0,Google Women's Vintage Hero Tee White,Apparel,1.0,15.19,6.0,Clicked,2019-05-05,
-12766.0,F,Chicago,24885.0,Google Men's Performance Polo Grey/Black,Apparel,1.0,62.99,6.5,Used,2019-04-05,
-16503.0,F,Chicago,36805.0,Google Canvas Tote Natural/Navy,Bags,3.0,12.79,12.48,Used,2019-08-28,
-12681.0,M,Chicago,35684.0,Nest Cam Indoor Security Camera - USA,Nest-USA,3.0,119.0,6.0,Used,2019-08-15,
-13319.0,F,Chicago,32923.0,Recycled Paper Journal Set,Office,1.0,3.19,6.5,Used,2019-07-17,
-15811.0,F,Chicago,25988.0,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,149.0,6.0,Used,2019-04-19,
-15696.0,M,Chicago,43129.0,Google Sunglasses,Lifestyle,1.0,3.5,6.0,Clicked,2019-11-11,
-18118.0,M,Chicago,38299.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,119.0,6.0,Clicked,2019-09-16,
-13008.0,F,Chicago,28609.0,Nest Cam Indoor Security Camera - USA,Nest-USA,2.0,119.0,6.0,Clicked,2019-05-22,
-17634.0,F,Chicago,33959.0,Google Men's Vintage Badge Tee Black,Apparel,8.0,7.6,12.99,Not Used,2019-07-28,
-17293.0,M,Chicago,28318.0,Google Men's Short Sleeve Performance Badge Tee Black,Apparel,1.0,12.31,6.0,Clicked,2019-05-18,
-14606.0,F,Chicago,45884.0,Android BTTF Cosmos Graphic Tee,Apparel,1.0,4.08,12.48,Clicked,2019-12-06,
-12793.0,F,Chicago,35079.0,Android Lunch Kit,Lifestyle,1.0,8.99,6.0,Used,2019-08-09,
-16791.0,F,Chicago,36193.0,Google Women's Short Sleeve Hero Tee Grey,Apparel,1.0,5.1,6.0,Clicked,2019-08-21,
-15555.0,F,Chicago,26073.0,Google Stretch Fit Hat M/L Navy,Headgear,1.0,12.31,6.0,Not Used,2019-04-20,
-15719.0,F,Chicago,47324.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,Used,2019-12-18,
-14341.0,F,Chicago,41807.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Clicked,2019-10-26,
-13174.0,M,Chicago,21769.0,Google Spiral Journal with Pen,Notebooks & Journals,1.0,9.99,6.5,Used,2019-03-02,
-15513.0,F,Chicago,16955.0,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,5.0,81.5,6.5,Not Used,2019-01-03,
-16270.0,F,Chicago,32487.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,Not Used,2019-07-12,
-18168.0,F,Chicago,19204.0,YouTube Women's Short Sleeve Tri-blend Badge Tee Charcoal,Apparel,1.0,15.67,6.5,Used,2019-01-30,
-15916.0,F,Chicago,24814.0,Android Youth Short Sleeve T-shirt Pewter,Apparel,1.0,18.99,18.36,Clicked,2019-04-04,
-14135.0,F,Chicago,35902.0,Google Youth Short Sleeve Tee White,Apparel,5.0,15.19,12.91,Clicked,2019-08-17,
-18118.0,M,Chicago,38272.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,149.0,6.0,Clicked,2019-09-15,
-17062.0,M,Chicago,44223.0,Google Tee Blue,Apparel,3.0,21.99,6.0,Clicked,2019-11-22,
-14606.0,F,Chicago,40410.0,Gift Card- $100.00,Gift Cards,1.0,100.0,0.0,Clicked,2019-10-11,
-17243.0,M,Chicago,27076.0,Google Twill Cap,Apparel,1.0,10.99,12.99,Used,2019-05-02,
-15311.0,F,Chicago,38776.0,Android Men's Pep Rally Short Sleeve Tee Navy,Apparel,1.0,9.99,6.0,Clicked,2019-09-22,
-16898.0,M,Chicago,22321.0,Rubber Grip Ballpoint Pen 4 Pack,Office,20.0,3.99,139.57,Used,2019-03-07,
-14341.0,F,Chicago,41750.0,Google Kick Ball,Lifestyle,1.0,1.99,6.0,Clicked,2019-10-26,
-15194.0,M,Chicago,23044.0,Bottle Opener Clip,Drinkware,3.0,3.5,6.5,Clicked,2019-03-16,
-18118.0,M,Chicago,20553.0,Sport Bag,Bags,30.0,4.99,139.84,Used,2019-02-16,
-14796.0,F,Chicago,40481.0,Google Sunglasses,Lifestyle,10.0,2.8,73.71,Used,2019-10-12,
-18198.0,F,Chicago,46398.0,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,2.0,151.88,6.5,Used,2019-12-11,
-15570.0,F,New Jersey,20890.0,Google Men's Short Sleeve Hero Tee Heather,Apparel,1.0,15.19,6.5,Not Used,2019-02-20,
-17519.0,F,New Jersey,23097.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,149.0,6.5,Clicked,2019-03-17,
-13117.0,M,New Jersey,18594.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,Clicked,2019-01-23,
-17860.0,F,New Jersey,22466.0,26 oz Double Wall Insulated Bottle,Drinkware,1.0,19.99,6.5,Clicked,2019-03-09,
-13869.0,F,New Jersey,31445.0,Google Men's Vintage Badge Tee Black,Apparel,1.0,10.63,12.48,Used,2019-06-28,
-12472.0,F,New Jersey,42099.0,Google Women's 1/4 Zip Jacket Charcoal,Apparel,1.0,22.0,6.0,Used,2019-10-30,
-13089.0,F,New Jersey,22852.0,Google 3/4 Sleeve Raglan Badge Henley Black,Apparel,1.0,24.99,6.5,Clicked,2019-03-14,
-16515.0,F,New Jersey,45988.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,Used,2019-12-07,
-14415.0,M,New Jersey,29148.0,Google Blackout Cap,Headgear,1.0,15.19,6.0,Not Used,2019-05-30,
-15497.0,F,New Jersey,40516.0,Google Twill Cap,Apparel,1.0,8.79,16.85,Not Used,2019-10-12,
-14395.0,M,New Jersey,19236.0,Google Stylus Pen w/ LED Light,Office,6.0,4.54,28.78,Used,2019-01-30,
-12472.0,F,New Jersey,42106.0,Waze Men's Typography Short Sleeve Tee,Waze,1.0,15.19,6.0,Clicked,2019-10-30,
-17346.0,F,New Jersey,17679.0,Google Men's Long Sleeve Raglan Ocean Blue,Apparel,1.0,25.78,6.5,Clicked,2019-01-11,
-15157.0,F,New Jersey,30664.0,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,16.99,6.0,Clicked,2019-06-18,
-17454.0,M,New Jersey,29543.0,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,3.0,79.0,6.0,Clicked,2019-06-04,
-12472.0,F,New Jersey,21435.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.5,Clicked,2019-02-27,
-12785.0,F,New Jersey,26812.0,Android Onesie Gold,Apparel,1.0,23.99,6.0,Used,2019-04-30,
-12472.0,F,New Jersey,42109.0,25L Classic Rucksack,Backpacks,1.0,79.99,6.0,Clicked,2019-10-30,
-15570.0,F,New Jersey,20879.0,Google Men's Microfiber 1/4 Zip Pullover Grey/Black,Apparel,1.0,59.99,6.5,Used,2019-02-20,
-12472.0,F,New Jersey,21431.0,Google Men's Vintage Badge Tee Black,Apparel,2.0,15.19,6.5,Clicked,2019-02-27,
-13117.0,M,New Jersey,40897.0,Nest Secure Alarm System Starter Pack - USA,Nest,1.0,349.0,6.0,Clicked,2019-10-17,
-13089.0,F,New Jersey,46483.0,Google Large Standard Journal Navy,Office,25.0,13.04,12.91,Clicked,2019-12-11,
-13263.0,M,New Jersey,38413.0,26 oz Double Wall Insulated Bottle,Drinkware,1.0,19.99,6.5,Used,2019-09-18,
-17346.0,F,New Jersey,29610.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Used,2019-06-05,
-14440.0,F,New Jersey,25559.0,Google Men's Bike Short Sleeve Tee Charcoal,Apparel,1.0,15.99,6.0,Clicked,2019-04-14,
-14415.0,M,New Jersey,29155.0,Google Onesie Green,Apparel,2.0,19.19,20.85,Not Used,2019-05-30,
-12942.0,F,New Jersey,25290.0,8 pc Android Sticker Sheet,Office,1.0,1.59,6.5,Clicked,2019-04-11,
-13089.0,F,New Jersey,42694.0,Google Large Standard Journal Navy,Office,4.0,12.79,6.5,Clicked,2019-11-06,
-17860.0,F,New Jersey,22468.0,22 oz YouTube Bottle Infuser,Bottles,1.0,4.99,6.5,Clicked,2019-03-09,
-17760.0,F,New Jersey,17766.0,Straw Beach Mat,Lifestyle,4.0,8.24,35.96,Clicked,2019-01-13,
-14755.0,F,New Jersey,35219.0,Google Vintage Henley Grey/Black,Apparel,2.0,16.79,6.0,Clicked,2019-08-10,
-13089.0,F,New Jersey,36661.0,Google Men's Vintage Badge Tee Black,Apparel,1.0,9.49,6.0,Clicked,2019-08-26,
-16931.0,F,New Jersey,20331.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,Used,2019-02-13,
-13802.0,F,New Jersey,45914.0,Ballpoint LED Light Pen,Office,6.0,2.04,6.5,Used,2019-12-06,
-17375.0,M,New Jersey,28401.0,Google Doodle Decal,Office,1.0,2.39,6.0,Used,2019-05-19,
-15738.0,M,New Jersey,38107.0,Google Women's Performance Hero Tee Gunmetal,Apparel,1.0,8.8,6.0,Clicked,2019-09-13,
-14621.0,F,New Jersey,30547.0,Google Luggage Tag,Fun,1.0,7.19,6.0,Clicked,2019-06-16,
-13263.0,M,New Jersey,38403.0,Google Women's Short Sleeve Hero Tee Grey,Apparel,1.0,4.08,6.0,Used,2019-09-18,
-15518.0,F,New Jersey,41417.0,7&quot; Dog Frisbee,Lifestyle,5.0,1.2,6.0,Not Used,2019-10-23,
-14443.0,F,New Jersey,46807.0,Google Tee Green,Apparel,1.0,17.93,6.5,Used,2019-12-14,
-16011.0,M,New Jersey,27561.0,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,79.0,6.0,Used,2019-05-08,
-13089.0,F,New Jersey,29982.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,5.0,149.0,6.0,Clicked,2019-06-09,
-14525.0,F,New Jersey,28562.0,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1.0,79.0,6.0,Clicked,2019-05-21,
-14309.0,F,New Jersey,39433.0,Google 22 oz Water Bottle,Drinkware,1.0,2.39,6.0,Used,2019-09-30,
-14309.0,F,New Jersey,47074.0,Google Tee Green,Apparel,1.0,17.93,6.5,Clicked,2019-12-15,
-15058.0,M,New Jersey,45415.0,Google Women's Short Sleeve Badge Tee Grey,Apparel,1.0,3.47,6.5,Not Used,2019-12-02,
-14233.0,F,New Jersey,46453.0,Nest Thermostat E - USA,Nest,1.0,100.91,6.5,Clicked,2019-12-11,
-16714.0,M,New Jersey,42296.0,Android Men's Vintage Tank,Apparel,2.0,4.2,6.0,Not Used,2019-11-01,
-15235.0,F,New Jersey,17985.0,Google Infuser-Top Water Bottle,Drinkware,26.0,9.91,6.5,Not Used,2019-01-16,
-15046.0,F,New Jersey,33583.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Not Used,2019-07-24,
-15752.0,F,New York,18082.0,Leatherette Journal,Office,26.0,10.9,6.5,Not Used,2019-01-17,
-17463.0,F,New York,44677.0,Google Crew Sweater Navy,Apparel,1.0,41.59,6.5,Used,2019-11-26,
-14040.0,F,New York,42869.0,Nest Thermostat E - USA,Nest,1.0,99.0,6.0,Used,2019-11-08,
-16717.0,F,New York,25202.0,Ballpoint Stick Pen 4 Pack,Office,8.0,3.99,6.5,Used,2019-04-10,
-17284.0,F,New York,34778.0,Google Men's Long & Lean Tee Charcoal,Apparel,1.0,4.8,6.0,Used,2019-08-05,
-18109.0,F,New York,27082.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Clicked,2019-05-02,
-17341.0,F,New York,24706.0,Google Men's Performance Hero Tee Gunmetal,Apparel,1.0,12.31,6.5,Clicked,2019-04-03,
-12921.0,M,New York,17740.0,Google Twill Cap,Apparel,10.0,11.34,6.5,Clicked,2019-01-12,
-14688.0,F,New York,44928.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,119.0,6.5,Clicked,2019-11-27,
-13842.0,F,New York,34423.0,Google Women's Short Sleeve Hero Tee Black,Apparel,1.0,13.59,6.0,Not Used,2019-08-02,
-17888.0,M,New York,42213.0,Google Sunglasses,Lifestyle,1.0,2.8,6.0,Used,2019-10-31,
-13069.0,F,New York,27975.0,Google Men's  Zip Hoodie,Apparel,1.0,44.79,6.0,Used,2019-05-13,
-13102.0,F,New York,29241.0,Gift Card - $25.00,Gift Cards,1.0,25.0,0.0,Used,2019-05-31,
-12738.0,M,New York,19261.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,122.77,6.5,Used,2019-01-30,
-18075.0,F,New York,30872.0,Google Toddler Short Sleeve T-shirt Grey,Apparel,1.0,9.51,6.0,Clicked,2019-06-20,
-17611.0,M,New York,40154.0,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,149.0,6.0,Used,2019-10-09,
-14669.0,F,New York,36061.0,Red Shine 15 oz Mug,Drinkware,1.0,12.99,75.0,Clicked,2019-08-19,
-14659.0,F,New York,43886.0,Google Rucksack,Bags,10.0,55.99,18.69,Clicked,2019-11-19,
-17954.0,F,New York,23750.0,YouTube Leatherette Notebook Combo,Office,4.0,5.59,12.91,Clicked,2019-03-21,
-16550.0,F,New York,22806.0,Android Lifted Men's Short Sleeve Tee Blue,Apparel,1.0,15.99,6.5,Not Used,2019-03-14,
-13124.0,M,New York,30035.0,Google Men's Vintage Badge Tee White,Apparel,1.0,10.63,6.0,Clicked,2019-06-10,
-16686.0,M,New York,31814.0,YouTube Men's Fleece Hoodie Black,Apparel,1.0,55.99,6.0,Clicked,2019-07-04,
-12347.0,M,New York,23981.0,24 oz YouTube Sergeant Stripe Bottle,Drinkware,3.0,7.99,49.73,Clicked,2019-03-24,
-15005.0,F,New York,46718.0,Four Color Retractable Pen,Office,51.0,2.39,18.96,Used,2019-12-13,
-16202.0,F,New York,28649.0,YouTube Men's Vintage Tank,Apparel,1.0,11.75,6.0,Used,2019-05-22,
-17954.0,F,New York,37289.0,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,149.0,6.0,Used,2019-09-03,
-15005.0,F,New York,35279.0,Google Men's Pullover Hoodie Grey,Apparel,1.0,29.11,6.0,Not Used,2019-08-11,
-15880.0,F,New York,20988.0,Google Sunglasses,Lifestyle,5.0,2.8,158.74,Clicked,2019-02-21,
-13369.0,F,New York,25418.0,Google Men's 100% Cotton Short Sleeve Hero Tee Navy,Apparel,1.0,16.99,6.0,Clicked,2019-04-12,
-16923.0,F,New York,27208.0,BLM Sweatshirt,Apparel,1.0,33.59,6.0,Used,2019-05-03,
-16710.0,F,New York,22722.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.5,Clicked,2019-03-13,
-17284.0,F,New York,34754.0,Google Women's Short Sleeve Hero Tee Grey,Apparel,1.0,4.08,6.0,Not Used,2019-08-05,
-15867.0,M,New York,32304.0,Google Doodle Decal,Office,1.0,2.39,6.0,Clicked,2019-07-10,
-14669.0,F,New York,36037.0,22 oz YouTube Bottle Infuser,Bottles,1.0,4.99,6.0,Used,2019-08-18,
-15485.0,M,New York,17503.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,Clicked,2019-01-09,
-17980.0,M,New York,30120.0,YouTube Women's Fleece Hoodie Black,Apparel,1.0,31.35,6.0,Used,2019-06-11,
-15448.0,M,New York,44915.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,119.0,6.5,Clicked,2019-11-27,
-18097.0,F,New York,32816.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Clicked,2019-07-16,
-16782.0,F,New York,42681.0,YouTube Women's Short Sleeve Tri-blend Badge Tee Charcoal,Apparel,1.0,4.75,6.0,Clicked,2019-11-06,
-12652.0,M,New York,36548.0,Google Women's Short Sleeve Hero Tee White,Apparel,4.0,16.99,6.0,Used,2019-08-24,
-15448.0,M,New York,44914.0,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,5.0,79.0,6.5,Used,2019-11-27,
-14215.0,F,New York,23163.0,Google Men's Vintage Tank,Apparel,1.0,20.99,44.06,Used,2019-03-18,
-15503.0,F,New York,27137.0,BLM Sweatshirt,Apparel,1.0,33.59,6.0,Clicked,2019-05-03,
-13148.0,M,New York,44459.0,Nest Thermostat E - USA,Nest,2.0,99.0,6.5,Clicked,2019-11-24,
-17757.0,F,New York,27043.0,Google Men's Bike Short Sleeve Tee Charcoal,Apparel,1.0,15.99,6.0,Clicked,2019-05-02,
-12427.0,F,New York,19437.0,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,16.99,6.5,Used,2019-02-01,
-14794.0,F,New York,35426.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Clicked,2019-08-12,
-14099.0,M,New York,31996.0,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,2.0,149.0,6.0,Clicked,2019-07-06,
-17757.0,F,New York,19155.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,Clicked,2019-01-30,
-16919.0,F,New York,29303.0,Waze Men's Typography Short Sleeve Tee,Waze,1.0,18.99,6.0,Clicked,2019-05-31,
-15351.0,F,Washington DC,20373.0,Google Twill Cap,Apparel,2.0,8.79,16.65,Used,2019-02-14,
-17796.0,F,Washington DC,44318.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,Used,2019-11-23,
-18055.0,F,Washington DC,30445.0,Google Baby Essentials Set,Apparel,1.0,27.19,40.25,Used,2019-06-15,
-12567.0,F,Washington DC,20431.0,Google Canvas Tote Natural/Navy,Bags,1.0,12.79,6.5,Clicked,2019-02-14,
-14088.0,M,Washington DC,39708.0,Google Laptop and Cell Phone Stickers,Office,2.0,2.39,13.38,Clicked,2019-10-03,
-16730.0,F,Washington DC,40811.0,Nest Thermostat E - USA,Nest,4.0,99.0,6.0,Used,2019-10-16,
-12567.0,F,Washington DC,20447.0,Google Men's Short Sleeve Badge Tee Charcoal,Apparel,1.0,18.99,6.5,Clicked,2019-02-14,
-13652.0,F,Washington DC,21940.0,Google Men's 3/4 Sleeve Raglan Henley Grey,Apparel,1.0,24.99,6.5,Clicked,2019-03-04,
-12567.0,F,Washington DC,20422.0,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1.0,79.0,6.5,Not Used,2019-02-14,
-17897.0,M,Washington DC,17274.0,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,81.5,6.5,Clicked,2019-01-06,
-15351.0,F,Washington DC,20374.0,Electronics Accessory Pouch,Bags,300.0,4.99,6.5,Not Used,2019-02-14,
-16326.0,M,Washington DC,35064.0,Google Women's Short Sleeve Hero Tee Grey,Apparel,5.0,4.08,6.0,Used,2019-08-09,
-12735.0,M,Washington DC,34055.0,Google Laptop and Cell Phone Stickers,Office,1.0,2.39,6.0,Used,2019-07-29,
-15373.0,M,Washington DC,19851.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,149.0,6.5,Clicked,2019-02-07,
-14472.0,F,Washington DC,34996.0,Google Men's Short Sleeve Performance Badge Tee Pewter,Apparel,1.0,11.0,12.99,Clicked,2019-08-08,
-15373.0,M,Washington DC,29525.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Clicked,2019-06-03,
-16767.0,M,Washington DC,43088.0,Google Women's Short Sleeve Hero Tee Heather,Apparel,1.0,18.99,6.0,Used,2019-11-10,
-16779.0,M,Washington DC,24209.0,Foam Can and Bottle Cooler,Drinkware,20.0,1.99,6.5,Clicked,2019-03-27,
-18041.0,M,Washington DC,18307.0,Google Laptop and Cell Phone Stickers,Office,1.0,2.05,6.5,Not Used,2019-01-19,
-16477.0,F,Washington DC,19671.0,Android Sticker Sheet Ultra Removable,Office,1.0,2.99,6.5,Clicked,2019-02-04,
-12567.0,F,Washington DC,47842.0,Nest Thermostat E - USA,Nest,1.0,100.91,6.5,Clicked,2019-12-21,
-13680.0,M,Washington DC,33057.0,Google Laptop and Cell Phone Stickers,Office,4.0,2.39,12.91,Not Used,2019-07-18,
-15213.0,M,Washington DC,37078.0,Collapsible Shopping Bag,Bags,1.0,3.99,6.0,Used,2019-08-31,
-13680.0,M,Washington DC,33082.0,Google Men's Performance Full Zip Jacket Black,Apparel,1.0,48.0,6.0,Used,2019-07-18,
-14913.0,M,Washington DC,30005.0,Google Youth Short Sleeve T-shirt Green,Apparel,1.0,10.63,6.0,Clicked,2019-06-09,
-16767.0,M,Washington DC,43089.0,Google Rucksack,Bags,1.0,55.99,6.0,Clicked,2019-11-10,
-16395.0,M,Washington DC,39054.0,Nest Thermostat E - USA,Nest,1.0,99.0,6.0,Clicked,2019-09-26,
-15189.0,F,Washington DC,45127.0,Nest Cam IQ Outdoor - USA (Preorder),Nest,2.0,279.0,6.5,Clicked,2019-11-29,
-15759.0,M,Washington DC,30808.0,Google Youth Short Sleeve Tee Red,Apparel,1.0,15.19,19.99,Not Used,2019-06-20,
-16353.0,M,Washington DC,36252.0,Google Sunglasses,Lifestyle,3.0,2.8,6.0,Clicked,2019-08-22,
-16779.0,M,Washington DC,27492.0,BLM Sweatshirt,Apparel,1.0,33.59,6.0,Used,2019-05-08,
-13680.0,M,Washington DC,34470.0,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,149.0,6.0,Not Used,2019-08-02,
-16395.0,M,Washington DC,36789.0,Android Rise 14 oz Mug,Drinkware,1.0,10.39,6.0,Not Used,2019-08-28,
-18055.0,F,Washington DC,30445.0,Google Tote Bag,Bags,15.0,7.99,40.25,Used,2019-06-15,
-18041.0,M,Washington DC,18304.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,Clicked,2019-01-19,
-16520.0,F,Washington DC,25654.0,Google Doodle Decal,Office,6.0,2.39,49.73,Clicked,2019-04-15,
-17897.0,M,Washington DC,17290.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,Used,2019-01-06,
-18223.0,M,Washington DC,39483.0,23 oz Wide Mouth Sport Bottle,Drinkware,1.0,8.79,6.5,Clicked,2019-10-01,
-12971.0,F,Washington DC,34148.0,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,79.0,6.0,Clicked,2019-07-31,
-16779.0,M,Washington DC,34615.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,119.0,6.0,Clicked,2019-08-03,
-12451.0,M,Washington DC,38512.0,Google Men's Performance Full Zip Jacket Black,Apparel,1.0,48.0,6.0,Clicked,2019-09-19,
-15606.0,F,Washington DC,38701.0,Google Women's Convertible Vest-Jacket Sea Foam Green,Apparel,2.0,23.76,6.0,Used,2019-09-22,
-18245.0,F,Washington DC,44981.0,Nest Cam IQ Outdoor - USA (Preorder),Nest,1.0,279.0,6.5,Clicked,2019-11-28,
-16943.0,M,Washington DC,41821.0,Google Men's Short Sleeve Badge Tee Charcoal,Apparel,1.0,3.8,6.0,Clicked,2019-10-26,
-17334.0,F,Washington DC,47712.0,Google Women's Short Sleeve Hero Tee White,Apparel,1.0,3.47,6.5,Used,2019-12-20,
-18055.0,F,Washington DC,23328.0,26 oz Double Wall Insulated Bottle,Drinkware,2.0,19.99,6.5,Clicked,2019-03-19,
-17796.0,F,Washington DC,20601.0,Google Doodle Decal,Office,1.0,2.99,6.5,Clicked,2019-02-16,
-15723.0,F,Washington DC,26471.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Used,2019-04-26,
-17976.0,M,Washington DC,18700.0,Google Women's Fleece Hoodie,Apparel,1.0,57.76,6.5,Used,2019-01-24,
-12567.0,F,Washington DC,20417.0,Android Women's Long Sleeve Blended Cardigan Grey,Apparel,2.0,29.99,6.5,Clicked,2019-02-14,
+CustomerID,Gender,Location,Transaction_ID,Product_Description,Product_Category,Quantity,Avg_Price,Delivery_Charges,Coupon_Status,Date,Temperature (F),Weather Conditions
+14307.0,F,California,38830.0,Google Stylus Pen w/ LED Light,Office,75.0,4.4,82.48,Clicked,2019-09-23,89.82,clear sky
+14911.0,F,California,45554.0,Google Youth Baseball Raglan Heather/Black,Apparel,1.0,10.18,6.5,Clicked,2019-12-04,55.81,mist
+17085.0,F,California,31959.0,Leatherette Journal,Office,30.0,8.79,36.06,Clicked,2019-07-06,95.9,clear sky
+17787.0,M,California,39212.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,Not Used,2019-09-27,93.34,clear sky
+14527.0,M,California,38656.0,Google Tote Bag,Bags,1.0,9.99,6.0,Clicked,2019-09-21,81.27,clear sky
+15889.0,F,California,21567.0,Ballpoint LED Light Pen,Office,30.0,2.5,6.5,Used,2019-02-28,63.05,broken clouds
+17841.0,M,California,36378.0,Android Onesie Gold,Apparel,1.0,19.19,6.0,Clicked,2019-08-23,95.31,scattered clouds
+16814.0,M,California,38257.0,Google Women's Long Sleeve Tee Lavender,Apparel,1.0,9.6,6.0,Used,2019-09-15,98.62,clear sky
+13819.0,F,California,40567.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,199.0,6.0,Clicked,2019-10-12,78.64,clear sky
+16727.0,F,California,26830.0,Google Women's Long Sleeve Tee Lavender,Apparel,1.0,23.99,12.99,Clicked,2019-04-30,75.58,clear sky
+15384.0,M,California,29679.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,Used,2019-06-05,91.54,few clouds
+17337.0,F,California,47054.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,151.88,6.5,Clicked,2019-12-15,55.22,few clouds
+12668.0,F,California,45209.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,Clicked,2019-11-30,46.45,clear sky
+13649.0,F,California,24983.0,Google Twill Cap,Apparel,1.0,10.99,6.5,Clicked,2019-04-06,62.92,light rain
+13488.0,F,California,36340.0,Women's Performance Full Zip Jacket Black,Apparel,1.0,67.19,6.0,Not Used,2019-08-22,94.19,clear sky
+15032.0,F,California,24750.0,Google Metallic Notebook Set,Office,60.0,4.79,45.5,Used,2019-04-04,65.91,clear sky
+17596.0,F,California,22399.0,Google Canvas Tote Natural/Navy,Bags,1.0,12.79,24.47,Used,2019-03-08,56.41,light rain
+13097.0,M,California,29385.0,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,149.0,6.0,Clicked,2019-06-01,83.14,scattered clouds
+12672.0,F,California,36994.0,YouTube Men's Short Sleeve Hero Tee Charcoal,Apparel,1.0,18.99,6.0,Used,2019-08-30,96.33,clear sky
+14497.0,M,California,47577.0,Nest Cam IQ - USA,Nest,1.0,202.84,6.5,Used,2019-12-19,55.24,clear sky
+14541.0,F,California,40839.0,Nest Cam IQ - USA,Nest,1.0,199.0,6.0,Used,2019-10-16,83.64,clear sky
+14911.0,F,California,42756.0,25L Classic Rucksack,Backpacks,1.0,79.99,6.0,Not Used,2019-11-07,77.47,clear sky
+12510.0,F,California,38370.0,YouTube Men's Long & Lean Tee Charcoal,Apparel,1.0,8.0,6.0,Used,2019-09-18,80.67,clear sky
+16274.0,F,California,17815.0,Google Men's Long Sleeve Raglan Ocean Blue,Apparel,1.0,25.78,6.5,Clicked,2019-01-13,58.68,clear sky
+17739.0,F,California,29311.0,Google Sunglasses,Lifestyle,20.0,2.8,16.86,Used,2019-05-31,83.08,broken clouds
+17337.0,F,California,46950.0,Google Tee Green,Apparel,2.0,17.93,12.99,Clicked,2019-12-15,55.22,few clouds
+17075.0,F,California,42220.0,Sport Bag,Bags,1.0,3.99,6.0,Not Used,2019-10-31,67.35,clear sky
+13715.0,M,California,33376.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Used,2019-07-21,93.36,clear sky
+15353.0,F,California,23699.0,Google Canvas Tote Natural/Navy,Bags,2.0,15.99,6.5,Clicked,2019-03-20,72.21,light rain
+17961.0,F,California,32526.0,Google Infant Zip Hood Pink,Apparel,13.0,26.59,6.0,Not Used,2019-07-13,98.65,clear sky
+13564.0,M,California,23328.0,Google Men's 100% Cotton Short Sleeve Hero Tee Red,Apparel,1.0,13.59,6.5,Clicked,2019-03-19,75.94,clear sky
+17787.0,M,California,39202.0,Google Men's Vintage Badge Tee Sage,Apparel,1.0,5.7,6.0,Not Used,2019-09-27,93.34,clear sky
+17841.0,M,California,26100.0,Google Men's Vintage Badge Tee White,Apparel,1.0,10.63,6.0,Used,2019-04-21,69.58,broken clouds
+15044.0,F,California,27722.0,Galaxy Screen Cleaning Cloth,Office,20.0,1.99,6.0,Clicked,2019-05-10,76.48,clear sky
+17811.0,M,California,35553.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,119.0,6.0,Used,2019-08-14,99.37,clear sky
+14667.0,F,California,26478.0,Google Trucker Hat,Headgear,1.0,21.99,12.99,Clicked,2019-04-26,89.6,clear sky
+16684.0,M,California,47260.0,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,80.52,12.99,Used,2019-12-17,54.75,clear sky
+18212.0,F,California,38159.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,19.99,Used,2019-09-14,97.38,clear sky
+12731.0,F,California,26351.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,3.0,149.0,6.0,Not Used,2019-04-24,85.46,clear sky
+16873.0,M,California,27009.0,BLM Sweatshirt,Apparel,1.0,33.59,6.0,Clicked,2019-05-02,76.46,clear sky
+12826.0,M,California,42916.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Used,2019-11-08,79.09,clear sky
+13280.0,F,California,34302.0,Red Shine 15 oz Mug,Drinkware,1.0,10.39,6.0,Not Used,2019-08-01,97.57,clear sky
+17841.0,M,California,26099.0,Google Sunglasses,Lifestyle,20.0,2.8,52.17,Clicked,2019-04-21,69.58,broken clouds
+15581.0,F,California,31753.0,Google Men's Long Sleeve Raglan Ocean Blue,Apparel,1.0,17.49,12.99,Used,2019-07-03,90.39,clear sky
+17621.0,M,California,45139.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,Clicked,2019-11-29,43.72,light rain
+16122.0,M,California,35914.0,YouTube Men's Short Sleeve Hero Tee Charcoal,Apparel,2.0,15.19,49.73,Clicked,2019-08-17,102.76,clear sky
+12947.0,M,California,34388.0,Keyboard DOT Sticker,Office,1.0,1.2,6.0,Used,2019-08-01,97.57,clear sky
+17581.0,M,California,37093.0,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,13.59,6.0,Clicked,2019-08-31,95.63,clear sky
+17880.0,M,California,26317.0,Google 3/4 Sleeve Raglan Badge Henley Black,Apparel,1.0,16.23,6.0,Not Used,2019-04-24,85.46,clear sky
+17880.0,M,California,26314.0,22 oz Android Bottle,Bottles,1.0,2.99,6.0,Used,2019-04-24,85.46,clear sky
+12539.0,M,Chicago,35456.0,Collapsible Shopping Bag,Bags,1.0,3.99,12.99,Clicked,2019-08-12,78.64,overcast clouds
+16891.0,M,Chicago,19496.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,Clicked,2019-02-02,18.09,scattered clouds
+17857.0,M,Chicago,25428.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Not Used,2019-04-12,53.62,broken clouds
+17218.0,F,Chicago,23119.0,Google Men's 100% Cotton Short Sleeve Hero Tee White,Apparel,2.0,16.99,6.5,Not Used,2019-03-17,36.28,few clouds
+12748.0,F,Chicago,25248.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.5,Clicked,2019-04-10,63.1,broken clouds
+17890.0,F,Chicago,28366.0,Android 25 oz Green Apple Stainless Steel Bottle,Drinkware,1.0,9.79,6.0,Clicked,2019-05-19,67.06,broken clouds
+14049.0,M,Chicago,42000.0,Four Color Retractable Pen,Office,1.0,2.99,6.0,Clicked,2019-10-28,54.54,clear sky
+15194.0,M,Chicago,30613.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,Clicked,2019-06-17,54.37,overcast clouds
+18145.0,F,Chicago,45030.0,YouTube Custom Decals,Office,1.0,0.4,6.5,Not Used,2019-11-28,36.48,overcast clouds
+13982.0,F,Chicago,25766.0,Android Wool Heather Cap Heather/Black,Headgear,1.0,13.99,6.0,Used,2019-04-17,51.6,overcast clouds
+13174.0,M,Chicago,21867.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,119.0,6.5,Used,2019-03-03,27.99,overcast clouds
+14701.0,M,Chicago,43017.0,Four Color Retractable Pen,Office,2.0,2.39,6.0,Clicked,2019-11-09,29.59,broken clouds
+15311.0,F,Chicago,37242.0,Google Women's Performance Hero Tee Gunmetal,Apparel,1.0,11.0,6.0,Used,2019-09-02,67.86,broken clouds
+15052.0,F,Chicago,40929.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,Clicked,2019-10-17,49.5,scattered clouds
+13174.0,M,Chicago,21814.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,Clicked,2019-03-03,27.99,overcast clouds
+16889.0,F,Chicago,34448.0,Google Toddler Short Sleeve Tee White,Apparel,1.0,13.59,6.0,Not Used,2019-08-02,74.26,few clouds
+17211.0,F,Chicago,27356.0,Google Women's Vintage Hero Tee White,Apparel,1.0,15.19,6.0,Clicked,2019-05-05,55.35,few clouds
+12766.0,F,Chicago,24885.0,Google Men's Performance Polo Grey/Black,Apparel,1.0,62.99,6.5,Used,2019-04-05,41.16,light rain
+16503.0,F,Chicago,36805.0,Google Canvas Tote Natural/Navy,Bags,3.0,12.79,12.48,Used,2019-08-28,77.05,few clouds
+12681.0,M,Chicago,35684.0,Nest Cam Indoor Security Camera - USA,Nest-USA,3.0,119.0,6.0,Used,2019-08-15,72.39,light rain
+13319.0,F,Chicago,32923.0,Recycled Paper Journal Set,Office,1.0,3.19,6.5,Used,2019-07-17,78.15,moderate rain
+15811.0,F,Chicago,25988.0,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,149.0,6.0,Used,2019-04-19,43,overcast clouds
+15696.0,M,Chicago,43129.0,Google Sunglasses,Lifestyle,1.0,3.5,6.0,Clicked,2019-11-11,39.61,overcast clouds
+18118.0,M,Chicago,38299.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,119.0,6.0,Clicked,2019-09-16,75.6,light rain
+13008.0,F,Chicago,28609.0,Nest Cam Indoor Security Camera - USA,Nest-USA,2.0,119.0,6.0,Clicked,2019-05-22,51.4,light rain
+17634.0,F,Chicago,33959.0,Google Men's Vintage Badge Tee Black,Apparel,8.0,7.6,12.99,Not Used,2019-07-28,86.34,few clouds
+17293.0,M,Chicago,28318.0,Google Men's Short Sleeve Performance Badge Tee Black,Apparel,1.0,12.31,6.0,Clicked,2019-05-18,45.9,moderate rain
+14606.0,F,Chicago,45884.0,Android BTTF Cosmos Graphic Tee,Apparel,1.0,4.08,12.48,Clicked,2019-12-06,44.22,broken clouds
+12793.0,F,Chicago,35079.0,Android Lunch Kit,Lifestyle,1.0,8.99,6.0,Used,2019-08-09,79.93,few clouds
+16791.0,F,Chicago,36193.0,Google Women's Short Sleeve Hero Tee Grey,Apparel,1.0,5.1,6.0,Clicked,2019-08-21,74.32,moderate rain
+15555.0,F,Chicago,26073.0,Google Stretch Fit Hat M/L Navy,Headgear,1.0,12.31,6.0,Not Used,2019-04-20,44.26,few clouds
+15719.0,F,Chicago,47324.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,Used,2019-12-18,26.42,overcast clouds
+14341.0,F,Chicago,41807.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Clicked,2019-10-26,44.13,broken clouds
+13174.0,M,Chicago,21769.0,Google Spiral Journal with Pen,Notebooks & Journals,1.0,9.99,6.5,Used,2019-03-02,29.64,broken clouds
+15513.0,F,Chicago,16955.0,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,5.0,81.5,6.5,Not Used,2019-01-03,29.39,light snow
+16270.0,F,Chicago,32487.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.0,Not Used,2019-07-12,70.32,scattered clouds
+18168.0,F,Chicago,19204.0,YouTube Women's Short Sleeve Tri-blend Badge Tee Charcoal,Apparel,1.0,15.67,6.5,Used,2019-01-30,0.54,scattered clouds
+15916.0,F,Chicago,24814.0,Android Youth Short Sleeve T-shirt Pewter,Apparel,1.0,18.99,18.36,Clicked,2019-04-04,56.01,overcast clouds
+14135.0,F,Chicago,35902.0,Google Youth Short Sleeve Tee White,Apparel,5.0,15.19,12.91,Clicked,2019-08-17,82.47,broken clouds
+18118.0,M,Chicago,38272.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,149.0,6.0,Clicked,2019-09-15,78.66,scattered clouds
+17062.0,M,Chicago,44223.0,Google Tee Blue,Apparel,3.0,21.99,6.0,Clicked,2019-11-22,46.72,overcast clouds
+14606.0,F,Chicago,40410.0,Gift Card- $100.00,Gift Cards,1.0,100.0,0.0,Clicked,2019-10-11,68.25,overcast clouds
+17243.0,M,Chicago,27076.0,Google Twill Cap,Apparel,1.0,10.99,12.99,Used,2019-05-02,46.72,broken clouds
+15311.0,F,Chicago,38776.0,Android Men's Pep Rally Short Sleeve Tee Navy,Apparel,1.0,9.99,6.0,Clicked,2019-09-22,76.03,overcast clouds
+16898.0,M,Chicago,22321.0,Rubber Grip Ballpoint Pen 4 Pack,Office,20.0,3.99,139.57,Used,2019-03-07,30.16,broken clouds
+14341.0,F,Chicago,41750.0,Google Kick Ball,Lifestyle,1.0,1.99,6.0,Clicked,2019-10-26,44.13,broken clouds
+15194.0,M,Chicago,23044.0,Bottle Opener Clip,Drinkware,3.0,3.5,6.5,Clicked,2019-03-16,39.45,scattered clouds
+18118.0,M,Chicago,20553.0,Sport Bag,Bags,30.0,4.99,139.84,Used,2019-02-16,20.48,broken clouds
+14796.0,F,Chicago,40481.0,Google Sunglasses,Lifestyle,10.0,2.8,73.71,Used,2019-10-12,42.69,broken clouds
+18198.0,F,Chicago,46398.0,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,2.0,151.88,6.5,Used,2019-12-11,20.43,clear sky
+15570.0,F,New Jersey,20890.0,Google Men's Short Sleeve Hero Tee Heather,Apparel,1.0,15.19,6.5,Not Used,2019-02-20,29.32,clear sky
+17519.0,F,New Jersey,23097.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,149.0,6.5,Clicked,2019-03-17,43.05,clear sky
+13117.0,M,New Jersey,18594.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,Clicked,2019-01-23,24.91,clear sky
+17860.0,F,New Jersey,22466.0,26 oz Double Wall Insulated Bottle,Drinkware,1.0,19.99,6.5,Clicked,2019-03-09,35.64,overcast clouds
+13869.0,F,New Jersey,31445.0,Google Men's Vintage Badge Tee Black,Apparel,1.0,10.63,12.48,Used,2019-06-28,82.02,clear sky
+12472.0,F,New Jersey,42099.0,Google Women's 1/4 Zip Jacket Charcoal,Apparel,1.0,22.0,6.0,Used,2019-10-30,60.37,light rain
+13089.0,F,New Jersey,22852.0,Google 3/4 Sleeve Raglan Badge Henley Black,Apparel,1.0,24.99,6.5,Clicked,2019-03-14,40.77,scattered clouds
+16515.0,F,New Jersey,45988.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,121.3,6.5,Used,2019-12-07,46.04,light rain
+14415.0,M,New Jersey,29148.0,Google Blackout Cap,Headgear,1.0,15.19,6.0,Not Used,2019-05-30,64.71,very heavy rain
+15497.0,F,New Jersey,40516.0,Google Twill Cap,Apparel,1.0,8.79,16.85,Not Used,2019-10-12,58.66,broken clouds
+14395.0,M,New Jersey,19236.0,Google Stylus Pen w/ LED Light,Office,6.0,4.54,28.78,Used,2019-01-30,41.4,moderate rain
+12472.0,F,New Jersey,42106.0,Waze Men's Typography Short Sleeve Tee,Waze,1.0,15.19,6.0,Clicked,2019-10-30,60.37,light rain
+17346.0,F,New Jersey,17679.0,Google Men's Long Sleeve Raglan Ocean Blue,Apparel,1.0,25.78,6.5,Clicked,2019-01-11,33.48,clear sky
+15157.0,F,New Jersey,30664.0,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,16.99,6.0,Clicked,2019-06-18,71.11,light rain
+17454.0,M,New Jersey,29543.0,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,3.0,79.0,6.0,Clicked,2019-06-04,63.12,clear sky
+12472.0,F,New Jersey,21435.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.5,Clicked,2019-02-27,35.82,overcast clouds
+12785.0,F,New Jersey,26812.0,Android Onesie Gold,Apparel,1.0,23.99,6.0,Used,2019-04-30,50.99,light rain
+12472.0,F,New Jersey,42109.0,25L Classic Rucksack,Backpacks,1.0,79.99,6.0,Clicked,2019-10-30,60.37,light rain
+15570.0,F,New Jersey,20879.0,Google Men's Microfiber 1/4 Zip Pullover Grey/Black,Apparel,1.0,59.99,6.5,Used,2019-02-20,29.32,clear sky
+12472.0,F,New Jersey,21431.0,Google Men's Vintage Badge Tee Black,Apparel,2.0,15.19,6.5,Clicked,2019-02-27,35.82,overcast clouds
+13117.0,M,New Jersey,40897.0,Nest Secure Alarm System Starter Pack - USA,Nest,1.0,349.0,6.0,Clicked,2019-10-17,60.66,heavy intensity rain
+13089.0,F,New Jersey,46483.0,Google Large Standard Journal Navy,Office,25.0,13.04,12.91,Clicked,2019-12-11,53.42,light rain
+13263.0,M,New Jersey,38413.0,26 oz Double Wall Insulated Bottle,Drinkware,1.0,19.99,6.5,Used,2019-09-18,62.19,clear sky
+17346.0,F,New Jersey,29610.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Used,2019-06-05,66.49,clear sky
+14440.0,F,New Jersey,25559.0,Google Men's Bike Short Sleeve Tee Charcoal,Apparel,1.0,15.99,6.0,Clicked,2019-04-14,67.05,clear sky
+14415.0,M,New Jersey,29155.0,Google Onesie Green,Apparel,2.0,19.19,20.85,Not Used,2019-05-30,64.71,very heavy rain
+12942.0,F,New Jersey,25290.0,8 pc Android Sticker Sheet,Office,1.0,1.59,6.5,Clicked,2019-04-11,52.83,clear sky
+13089.0,F,New Jersey,42694.0,Google Large Standard Journal Navy,Office,4.0,12.79,6.5,Clicked,2019-11-06,45.73,clear sky
+17860.0,F,New Jersey,22468.0,22 oz YouTube Bottle Infuser,Bottles,1.0,4.99,6.5,Clicked,2019-03-09,35.64,overcast clouds
+17760.0,F,New Jersey,17766.0,Straw Beach Mat,Lifestyle,4.0,8.24,35.96,Clicked,2019-01-13,28.49,overcast clouds
+14755.0,F,New Jersey,35219.0,Google Vintage Henley Grey/Black,Apparel,2.0,16.79,6.0,Clicked,2019-08-10,75.94,scattered clouds
+13089.0,F,New Jersey,36661.0,Google Men's Vintage Badge Tee Black,Apparel,1.0,9.49,6.0,Clicked,2019-08-26,67.32,clear sky
+16931.0,F,New Jersey,20331.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,Used,2019-02-13,37.81,moderate rain
+13802.0,F,New Jersey,45914.0,Ballpoint LED Light Pen,Office,6.0,2.04,6.5,Used,2019-12-06,39.58,overcast clouds
+17375.0,M,New Jersey,28401.0,Google Doodle Decal,Office,1.0,2.39,6.0,Used,2019-05-19,62.64,clear sky
+15738.0,M,New Jersey,38107.0,Google Women's Performance Hero Tee Gunmetal,Apparel,1.0,8.8,6.0,Clicked,2019-09-13,66.51,light rain
+14621.0,F,New Jersey,30547.0,Google Luggage Tag,Fun,1.0,7.19,6.0,Clicked,2019-06-16,74.62,clear sky
+13263.0,M,New Jersey,38403.0,Google Women's Short Sleeve Hero Tee Grey,Apparel,1.0,4.08,6.0,Used,2019-09-18,62.19,clear sky
+15518.0,F,New Jersey,41417.0,7&quot; Dog Frisbee,Lifestyle,5.0,1.2,6.0,Not Used,2019-10-23,62.49,moderate rain
+14443.0,F,New Jersey,46807.0,Google Tee Green,Apparel,1.0,17.93,6.5,Used,2019-12-14,51.8,light rain
+16011.0,M,New Jersey,27561.0,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,79.0,6.0,Used,2019-05-08,65.84,clear sky
+13089.0,F,New Jersey,29982.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,5.0,149.0,6.0,Clicked,2019-06-09,67.06,clear sky
+14525.0,F,New Jersey,28562.0,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1.0,79.0,6.0,Clicked,2019-05-21,81.97,clear sky
+14309.0,F,New Jersey,39433.0,Google 22 oz Water Bottle,Drinkware,1.0,2.39,6.0,Used,2019-09-30,64.58,clear sky
+14309.0,F,New Jersey,47074.0,Google Tee Green,Apparel,1.0,17.93,6.5,Clicked,2019-12-15,49.41,overcast clouds
+15058.0,M,New Jersey,45415.0,Google Women's Short Sleeve Badge Tee Grey,Apparel,1.0,3.47,6.5,Not Used,2019-12-02,46.13,moderate rain
+14233.0,F,New Jersey,46453.0,Nest Thermostat E - USA,Nest,1.0,100.91,6.5,Clicked,2019-12-11,53.42,light rain
+16714.0,M,New Jersey,42296.0,Android Men's Vintage Tank,Apparel,2.0,4.2,6.0,Not Used,2019-11-01,70.86,overcast clouds
+15235.0,F,New Jersey,17985.0,Google Infuser-Top Water Bottle,Drinkware,26.0,9.91,6.5,Not Used,2019-01-16,29.28,clear sky
+15046.0,F,New Jersey,33583.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Not Used,2019-07-24,69.48,light rain
+15752.0,F,New York,18082.0,Leatherette Journal,Office,26.0,10.9,6.5,Not Used,2019-01-17,38.52,overcast clouds
+17463.0,F,New York,44677.0,Google Crew Sweater Navy,Apparel,1.0,41.59,6.5,Used,2019-11-26,49.59,clear sky
+14040.0,F,New York,42869.0,Nest Thermostat E - USA,Nest,1.0,99.0,6.0,Used,2019-11-08,51.04,light rain
+16717.0,F,New York,25202.0,Ballpoint Stick Pen 4 Pack,Office,8.0,3.99,6.5,Used,2019-04-10,46.02,mist
+17284.0,F,New York,34778.0,Google Men's Long & Lean Tee Charcoal,Apparel,1.0,4.8,6.0,Used,2019-08-05,79.79,overcast clouds
+18109.0,F,New York,27082.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Clicked,2019-05-02,50.38,mist
+17341.0,F,New York,24706.0,Google Men's Performance Hero Tee Gunmetal,Apparel,1.0,12.31,6.5,Clicked,2019-04-03,44.62,light rain
+12921.0,M,New York,17740.0,Google Twill Cap,Apparel,10.0,11.34,6.5,Clicked,2019-01-12,26.78,clear sky
+14688.0,F,New York,44928.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,119.0,6.5,Clicked,2019-11-27,54.79,clear sky
+13842.0,F,New York,34423.0,Google Women's Short Sleeve Hero Tee Black,Apparel,1.0,13.59,6.0,Not Used,2019-08-02,81.36,broken clouds
+17888.0,M,New York,42213.0,Google Sunglasses,Lifestyle,1.0,2.8,6.0,Used,2019-10-31,61.9,mist
+13069.0,F,New York,27975.0,Google Men's  Zip Hoodie,Apparel,1.0,44.79,6.0,Used,2019-05-13,46,light rain
+13102.0,F,New York,29241.0,Gift Card - $25.00,Gift Cards,1.0,25.0,0.0,Used,2019-05-31,62.49,moderate rain
+12738.0,M,New York,19261.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,122.77,6.5,Used,2019-01-30,41.25,moderate rain
+18075.0,F,New York,30872.0,Google Toddler Short Sleeve T-shirt Grey,Apparel,1.0,9.51,6.0,Clicked,2019-06-20,67.44,mist
+17611.0,M,New York,40154.0,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,149.0,6.0,Used,2019-10-09,61.95,clear sky
+14669.0,F,New York,36061.0,Red Shine 15 oz Mug,Drinkware,1.0,12.99,75.0,Clicked,2019-08-19,80.8,light rain
+14659.0,F,New York,43886.0,Google Rucksack,Bags,10.0,55.99,18.69,Clicked,2019-11-19,40.91,mist
+17954.0,F,New York,23750.0,YouTube Leatherette Notebook Combo,Office,4.0,5.59,12.91,Clicked,2019-03-21,43.68,clear sky
+16550.0,F,New York,22806.0,Android Lifted Men's Short Sleeve Tee Blue,Apparel,1.0,15.99,6.5,Not Used,2019-03-14,40.53,clear sky
+13124.0,M,New York,30035.0,Google Men's Vintage Badge Tee White,Apparel,1.0,10.63,6.0,Clicked,2019-06-10,69.93,clear sky
+16686.0,M,New York,31814.0,YouTube Men's Fleece Hoodie Black,Apparel,1.0,55.99,6.0,Clicked,2019-07-04,81.52,clear sky
+12347.0,M,New York,23981.0,24 oz YouTube Sergeant Stripe Bottle,Drinkware,3.0,7.99,49.73,Clicked,2019-03-24,45.23,clear sky
+15005.0,F,New York,46718.0,Four Color Retractable Pen,Office,51.0,2.39,18.96,Used,2019-12-13,33.51,clear sky
+16202.0,F,New York,28649.0,YouTube Men's Vintage Tank,Apparel,1.0,11.75,6.0,Used,2019-05-22,68.65,clear sky
+17954.0,F,New York,37289.0,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,149.0,6.0,Used,2019-09-03,74.17,light rain
+15005.0,F,New York,35279.0,Google Men's Pullover Hoodie Grey,Apparel,1.0,29.11,6.0,Not Used,2019-08-11,77.67,few clouds
+15880.0,F,New York,20988.0,Google Sunglasses,Lifestyle,5.0,2.8,158.74,Clicked,2019-02-21,30.18,mist
+13369.0,F,New York,25418.0,Google Men's 100% Cotton Short Sleeve Hero Tee Navy,Apparel,1.0,16.99,6.0,Clicked,2019-04-12,46.29,overcast clouds
+16923.0,F,New York,27208.0,BLM Sweatshirt,Apparel,1.0,33.59,6.0,Used,2019-05-03,56.01,moderate rain
+16710.0,F,New York,22722.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,149.0,6.5,Clicked,2019-03-13,39.24,clear sky
+17284.0,F,New York,34754.0,Google Women's Short Sleeve Hero Tee Grey,Apparel,1.0,4.08,6.0,Not Used,2019-08-05,79.79,overcast clouds
+15867.0,M,New York,32304.0,Google Doodle Decal,Office,1.0,2.39,6.0,Clicked,2019-07-10,83.73,clear sky
+14669.0,F,New York,36037.0,22 oz YouTube Bottle Infuser,Bottles,1.0,4.99,6.0,Used,2019-08-18,78.08,few clouds
+15485.0,M,New York,17503.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,Clicked,2019-01-09,41.99,mist
+17980.0,M,New York,30120.0,YouTube Women's Fleece Hoodie Black,Apparel,1.0,31.35,6.0,Used,2019-06-11,67.59,light rain
+15448.0,M,New York,44915.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,119.0,6.5,Clicked,2019-11-27,54.79,clear sky
+18097.0,F,New York,32816.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Clicked,2019-07-16,83.66,clear sky
+16782.0,F,New York,42681.0,YouTube Women's Short Sleeve Tri-blend Badge Tee Charcoal,Apparel,1.0,4.75,6.0,Clicked,2019-11-06,56.93,clear sky
+12652.0,M,New York,36548.0,Google Women's Short Sleeve Hero Tee White,Apparel,4.0,16.99,6.0,Used,2019-08-24,73.89,clear sky
+15448.0,M,New York,44914.0,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,5.0,79.0,6.5,Used,2019-11-27,54.79,clear sky
+14215.0,F,New York,23163.0,Google Men's Vintage Tank,Apparel,1.0,20.99,44.06,Used,2019-03-18,41.31,clear sky
+15503.0,F,New York,27137.0,BLM Sweatshirt,Apparel,1.0,33.59,6.0,Clicked,2019-05-03,56.01,moderate rain
+13148.0,M,New York,44459.0,Nest Thermostat E - USA,Nest,2.0,99.0,6.5,Clicked,2019-11-24,43.75,clear sky
+17757.0,F,New York,27043.0,Google Men's Bike Short Sleeve Tee Charcoal,Apparel,1.0,15.99,6.0,Clicked,2019-05-02,50.38,mist
+12427.0,F,New York,19437.0,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,1.0,16.99,6.5,Used,2019-02-01,14.85,clear sky
+14794.0,F,New York,35426.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Clicked,2019-08-12,77.99,clear sky
+14099.0,M,New York,31996.0,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,2.0,149.0,6.0,Clicked,2019-07-06,77.45,overcast clouds
+17757.0,F,New York,19155.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,Clicked,2019-01-30,41.25,moderate rain
+16919.0,F,New York,29303.0,Waze Men's Typography Short Sleeve Tee,Waze,1.0,18.99,6.0,Clicked,2019-05-31,62.49,moderate rain
+15351.0,F,Washington DC,20373.0,Google Twill Cap,Apparel,2.0,8.79,16.65,Used,2019-02-14,43.97,few clouds
+17796.0,F,Washington DC,44318.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.5,Used,2019-11-23,49.33,few clouds
+18055.0,F,Washington DC,30445.0,Google Baby Essentials Set,Apparel,1.0,27.19,40.25,Used,2019-06-15,75.22,scattered clouds
+12567.0,F,Washington DC,20431.0,Google Canvas Tote Natural/Navy,Bags,1.0,12.79,6.5,Clicked,2019-02-14,43.97,few clouds
+14088.0,M,Washington DC,39708.0,Google Laptop and Cell Phone Stickers,Office,2.0,2.39,13.38,Clicked,2019-10-03,87.48,scattered clouds
+16730.0,F,Washington DC,40811.0,Nest Thermostat E - USA,Nest,4.0,99.0,6.0,Used,2019-10-16,64.36,scattered clouds
+12567.0,F,Washington DC,20447.0,Google Men's Short Sleeve Badge Tee Charcoal,Apparel,1.0,18.99,6.5,Clicked,2019-02-14,43.97,few clouds
+13652.0,F,Washington DC,21940.0,Google Men's 3/4 Sleeve Raglan Henley Grey,Apparel,1.0,24.99,6.5,Clicked,2019-03-04,36.19,moderate rain
+12567.0,F,Washington DC,20422.0,Nest Protect Smoke + CO White Battery Alarm-USA,Nest-USA,1.0,79.0,6.5,Not Used,2019-02-14,43.97,few clouds
+17897.0,M,Washington DC,17274.0,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,81.5,6.5,Clicked,2019-01-06,51.53,clear sky
+15351.0,F,Washington DC,20374.0,Electronics Accessory Pouch,Bags,300.0,4.99,6.5,Not Used,2019-02-14,43.97,few clouds
+16326.0,M,Washington DC,35064.0,Google Women's Short Sleeve Hero Tee Grey,Apparel,5.0,4.08,6.0,Used,2019-08-09,86.59,scattered clouds
+12735.0,M,Washington DC,34055.0,Google Laptop and Cell Phone Stickers,Office,1.0,2.39,6.0,Used,2019-07-29,87.55,light rain
+15373.0,M,Washington DC,19851.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,2.0,149.0,6.5,Clicked,2019-02-07,52.25,light rain
+14472.0,F,Washington DC,34996.0,Google Men's Short Sleeve Performance Badge Tee Pewter,Apparel,1.0,11.0,12.99,Clicked,2019-08-08,77.68,thunderstorm
+15373.0,M,Washington DC,29525.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Clicked,2019-06-03,71.26,light rain
+16767.0,M,Washington DC,43088.0,Google Women's Short Sleeve Hero Tee Heather,Apparel,1.0,18.99,6.0,Used,2019-11-10,41.45,broken clouds
+16779.0,M,Washington DC,24209.0,Foam Can and Bottle Cooler,Drinkware,20.0,1.99,6.5,Clicked,2019-03-27,46,clear sky
+18041.0,M,Washington DC,18307.0,Google Laptop and Cell Phone Stickers,Office,1.0,2.05,6.5,Not Used,2019-01-19,38.25,scattered clouds
+16477.0,F,Washington DC,19671.0,Android Sticker Sheet Ultra Removable,Office,1.0,2.99,6.5,Clicked,2019-02-04,48.06,broken clouds
+12567.0,F,Washington DC,47842.0,Nest Thermostat E - USA,Nest,1.0,100.91,6.5,Clicked,2019-12-21,33.8,clear sky
+13680.0,M,Washington DC,33057.0,Google Laptop and Cell Phone Stickers,Office,4.0,2.39,12.91,Not Used,2019-07-18,77.99,light rain
+15213.0,M,Washington DC,37078.0,Collapsible Shopping Bag,Bags,1.0,3.99,6.0,Used,2019-08-31,82.22,broken clouds
+13680.0,M,Washington DC,33082.0,Google Men's Performance Full Zip Jacket Black,Apparel,1.0,48.0,6.0,Used,2019-07-18,77.99,light rain
+14913.0,M,Washington DC,30005.0,Google Youth Short Sleeve T-shirt Green,Apparel,1.0,10.63,6.0,Clicked,2019-06-09,76.75,overcast clouds
+16767.0,M,Washington DC,43089.0,Google Rucksack,Bags,1.0,55.99,6.0,Clicked,2019-11-10,41.45,broken clouds
+16395.0,M,Washington DC,39054.0,Nest Thermostat E - USA,Nest,1.0,99.0,6.0,Clicked,2019-09-26,76.55,broken clouds
+15189.0,F,Washington DC,45127.0,Nest Cam IQ Outdoor - USA (Preorder),Nest,2.0,279.0,6.5,Clicked,2019-11-29,45.43,broken clouds
+15759.0,M,Washington DC,30808.0,Google Youth Short Sleeve Tee Red,Apparel,1.0,15.19,19.99,Not Used,2019-06-20,82.78,broken clouds
+16353.0,M,Washington DC,36252.0,Google Sunglasses,Lifestyle,3.0,2.8,6.0,Clicked,2019-08-22,79.57,thunderstorm
+16779.0,M,Washington DC,27492.0,BLM Sweatshirt,Apparel,1.0,33.59,6.0,Used,2019-05-08,75.4,broken clouds
+13680.0,M,Washington DC,34470.0,Nest Learning Thermostat 3rd Gen-USA - White,Nest-USA,1.0,149.0,6.0,Not Used,2019-08-02,80.74,broken clouds
+16395.0,M,Washington DC,36789.0,Android Rise 14 oz Mug,Drinkware,1.0,10.39,6.0,Not Used,2019-08-28,76.44,broken clouds
+18055.0,F,Washington DC,30445.0,Google Tote Bag,Bags,15.0,7.99,40.25,Used,2019-06-15,75.22,scattered clouds
+18041.0,M,Washington DC,18304.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,1.0,122.77,6.5,Clicked,2019-01-19,38.25,scattered clouds
+16520.0,F,Washington DC,25654.0,Google Doodle Decal,Office,6.0,2.39,49.73,Clicked,2019-04-15,74.39,light rain
+17897.0,M,Washington DC,17290.0,Nest Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,1.0,153.71,6.5,Used,2019-01-06,51.53,clear sky
+18223.0,M,Washington DC,39483.0,23 oz Wide Mouth Sport Bottle,Drinkware,1.0,8.79,6.5,Clicked,2019-10-01,71.46,overcast clouds
+12971.0,F,Washington DC,34148.0,Nest Protect Smoke + CO White Wired Alarm-USA,Nest-USA,1.0,79.0,6.0,Clicked,2019-07-31,86.72,broken clouds
+16779.0,M,Washington DC,34615.0,Nest Cam Outdoor Security Camera - USA,Nest-USA,2.0,119.0,6.0,Clicked,2019-08-03,81.82,broken clouds
+12451.0,M,Washington DC,38512.0,Google Men's Performance Full Zip Jacket Black,Apparel,1.0,48.0,6.0,Clicked,2019-09-19,71.29,scattered clouds
+15606.0,F,Washington DC,38701.0,Google Women's Convertible Vest-Jacket Sea Foam Green,Apparel,2.0,23.76,6.0,Used,2019-09-22,80.64,scattered clouds
+18245.0,F,Washington DC,44981.0,Nest Cam IQ Outdoor - USA (Preorder),Nest,1.0,279.0,6.5,Clicked,2019-11-28,57.52,few clouds
+16943.0,M,Washington DC,41821.0,Google Men's Short Sleeve Badge Tee Charcoal,Apparel,1.0,3.8,6.0,Clicked,2019-10-26,62.15,overcast clouds
+17334.0,F,Washington DC,47712.0,Google Women's Short Sleeve Hero Tee White,Apparel,1.0,3.47,6.5,Used,2019-12-20,30.74,clear sky
+18055.0,F,Washington DC,23328.0,26 oz Double Wall Insulated Bottle,Drinkware,2.0,19.99,6.5,Clicked,2019-03-19,46.47,overcast clouds
+17796.0,F,Washington DC,20601.0,Google Doodle Decal,Office,1.0,2.99,6.5,Clicked,2019-02-16,56.32,overcast clouds
+15723.0,F,Washington DC,26471.0,Nest Cam Indoor Security Camera - USA,Nest-USA,1.0,119.0,6.0,Used,2019-04-26,70.14,overcast clouds
+17976.0,M,Washington DC,18700.0,Google Women's Fleece Hoodie,Apparel,1.0,57.76,6.5,Used,2019-01-24,47.53,overcast clouds
+12567.0,F,Washington DC,20417.0,Android Women's Long Sleeve Blended Cardigan Grey,Apparel,2.0,29.99,6.5,Clicked,2019-02-14,43.97,few clouds

@@ -1,0 +1,1 @@
+openweather_key="ca2c7257e3a202dd583f0bc7110c8d9e"
